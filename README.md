@@ -15,11 +15,11 @@
 
 	 HJUA.init(encodeUAStr);
 
-	 console.info(HJUA.getAppVer());
-	 console.info(HJUA.getPlatform());
-	 console.info(HJUA.getDeviceID());
-	 console.info(HJUA.getSystemVer());
-	 console.info(HJUA.getAppPackage());
-	 console.info(HJUA.getBuildVer());
-	 console.info(HJUA.getChannel());
-	 console.info(HJUA.getOriginalUA());
+	 console.info(HJUA.appVer);
+	 console.info(HJUA.platform);
+	 console.info(HJUA.deviceID);
+	 console.info(HJUA.systemVer);
+	 console.info(HJUA.appPackage);
+	 console.info(HJUA.buildVer);
+	 console.info(HJUA.channel);
+	 console.info(HJUA.originalUA);
