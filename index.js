@@ -1,5 +1,5 @@
 var HJUA = {
-    _paramArr : '',
+    _paramArr : [],
     appVer : '',
     platform : '',
     deviceID : '',
